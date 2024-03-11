@@ -1,0 +1,32 @@
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+<div class="image fit flush">
+							<img src="c:\workspace\3_html\resource\image" alt="" />
+
+                            #main > .inner {
+                                /*margin:*/ 
+                                width: 60rem;
+                                max-width: 90%;
+                                margin-bottom: 2rem;
+                                background: rgba(255, 255, 255, 0.95);
+                                -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+                                -moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+                                box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+                                border-radius: 4px;
+                            }
+
+                            #main > .inner {
+                                margin: 0 auto;
+                                width: 60rem;
+                                max-width: 90%;
+                                margin-bottom: 2rem;
+                                background: rgba(255, 255, 255, 0.95);
+                                -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+                                -moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+                                box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+                                border-radius: 4px;
+                            }
